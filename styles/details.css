@@ -1,0 +1,16 @@
+.details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    flex-basis: 45%;
+    padding: 0 2rem;
+    border: 1px dotted goldenrod;
+    gap: 10px;
+    
+}
+
+.bookings {
+    padding: 0 2rem;
+}
